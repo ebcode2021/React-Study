@@ -7,14 +7,23 @@ import Library from './chapter_03/Library';
 import Clock from './chapter_04/Clock';
 import CommentList from './chapter_05/CommentList';
 import NotificationList from './chapter_06/NotificationList';
+import Accommodate from './chapter_07/Accommodate';
 
-// chapter_06
+// chapter_07
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <NotificationList />
+    <Accommodate />
   </React.StrictMode>
 );
+
+// chapter_06
+// const root = ReactDOM.createRoot(document.getElementById("root"));
+// root.render(
+//   <React.StrictMode>
+//     <NotificationList />
+//   </React.StrictMode>
+// );
 
 // chapter_05
 // const root = ReactDOM.createRoot(document.getElementById("root"));
