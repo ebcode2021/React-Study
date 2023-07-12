@@ -11,20 +11,37 @@ import Accommodate from './chapter_07/Accommodate';
 import ConfirmButton from './chapter_08/ConfirmButton';
 import LandingPage from './chapter_09/LandingPage';
 import AttendanceBook from './chapter_10/AttendanceBook';
+import SignUp from './chapter_11/SIgnUp';
 
-// chapter_09
+// chapter_11
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <AttendanceBook/>
+    <SignUp/>
   </React.StrictMode>
 );
 
-// chapter_08
+// chapter_10
+// const root = ReactDOM.createRoot(document.getElementById("root"));
+// root.render(
+//   <React.StrictMode>
+//     <AttendanceBook/>
+//   </React.StrictMode>
+// );
+
+// chapter_09
 // const root = ReactDOM.createRoot(document.getElementById("root"));
 // root.render(
 //   <React.StrictMode>
 //     <LandingPage/>
+//   </React.StrictMode>
+// );
+
+// chapter_09
+// const root = ReactDOM.createRoot(document.getElementById("root"));
+// root.render(
+//   <React.StrictMode>
+//     <ConfirmButton/>
 //   </React.StrictMode>
 // );
 
