@@ -6,17 +6,18 @@ React를 공부하면서 기록한 <b>소스코드</b> 및 <b>노션 페이지</
 
 책 `"소플의 처음 만난 리액트"`의 ch3 - ch15의 소스코드가 적혀있습니다.
 
-    [keyword]
-    JSX, element, component, props, state, hook, event-handling, list, form, containment, inheritance, context
+<b>[keyword]</b><br>
+JSX, element, component, props, state, hook, event-handling, <br>
+list, form, containment, inheritance, context
 
 ## 2. Mini_Blog
 
 서버가 존재하지 않아 실제 블로그처럼 작동하지는 않지만, 블로그의 <b>뷰</b>와 <b>기능</b>을 리액트 컴포넌트로 만들었습니다.
 
-    [function]
-    - 글 목록 보기 기능
-    - 글, 댓글 보기 기능
-    - 글, 댓글 작성 기능
+<b>[function]</b><br>
+-- 글 목록 보기 기능<br>
+-- 글, 댓글 보기 기능<br>
+-- 글, 댓글 작성 기능
 
 ## 3. Movie_Web_Site
 
@@ -32,4 +33,4 @@ React를 공부하면서 기록한 <b>소스코드</b> 및 <b>노션 페이지</
 
 ## 6. Reference
 
-[강의] https://nomadcoders.co/react-for-beginners
+강의 💻 : [@https://nomadcoders.co/react-for-beginners]
