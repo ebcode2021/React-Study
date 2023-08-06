@@ -7,7 +7,7 @@ React를 공부하면서 기록한 <b>소스코드</b> 및 <b>노션 페이지</
 책 `"소플의 처음 만난 리액트"`의 ch3 - ch15의 소스코드가 적혀있습니다.
 
 <b>[keyword]</b><br>
-JSX, element, component, props, state, hook, event-handling, <br>
+JSX, element, component, props, state, hook, event-handling,
 list, form, containment, inheritance, context
 
 ## 2. Mini_Blog
