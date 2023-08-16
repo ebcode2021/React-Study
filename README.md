@@ -33,4 +33,4 @@ list, form, containment, context
 
 ## 6. Reference
 
-강의 💻 : [@https://nomadcoders.co/react-for-beginners]
+강의 [💻] : [https://nomadcoders.co/react-for-beginners]
